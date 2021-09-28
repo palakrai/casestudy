@@ -1,2 +1,2 @@
 # casestudy
-All Project details here
+All Project details here.
